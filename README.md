@@ -8,6 +8,8 @@ Original paper's parameter is very big model. Cross-conv. pooling layer output i
 
 I hope this code helps researcher reach higher score.
 
+## Data input
+ - batch X 1 X feature dim. X frame.
 
 ## Credits
 Original paper:
