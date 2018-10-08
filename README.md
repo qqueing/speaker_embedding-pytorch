@@ -4,7 +4,7 @@ This is a pytorch implementation of the model(modified cross-conv. pooling) pres
 
 I am sorry that most of the code except the model is old and dirty. Because I try to it only private database. but there is no problem with performance or operation. If you only fit the input size - batch X 1 X feature dim. X frame.
 
-Original paper's parameter is very big model. Cross-conv. pooling layer output is 512 x 512 = 262144, it makes small batch size and a lot of training time and so on. I recommend you use small size parameter about 64 x 64.
+Original paper's parameter is very big model. Cross-conv. pooling layer output is 512 x 512 = 262144, it makes small batch size and a lot of training time and so on. I recommend you use small size parameter about 128 x 128.
 
 I hope this code helps researcher reach higher score.
 
